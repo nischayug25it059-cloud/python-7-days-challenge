@@ -10,3 +10,10 @@ print(name,age,city) """
 breadth= 23
 area_of_rectangle=(length*breadth)
 print(area_of_rectangle) """
+""" maths=53
+phy=97
+che=45
+bio=96
+eng=56
+percentage = ((maths+phy+che+bio+eng)/500)*100
+print (percentage) """
