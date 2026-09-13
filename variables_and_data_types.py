@@ -24,3 +24,8 @@ z=x
 x=y
 y=z
 print(x,y) """
+""" name = "Nischay"
+age = 20
+height = 5.8
+is_student = True
+print(name,type(name),f"{type(height)}\n",height,is_student,age) """ #to leave a line f"{height}\n" and sep="\n\n";
