@@ -17,3 +17,10 @@ bio=96
 eng=56
 percentage = ((maths+phy+che+bio+eng)/500)*100
 print (percentage) """
+""" x=89
+y=67
+z=0
+z=x
+x=y
+y=z
+print(x,y) """
