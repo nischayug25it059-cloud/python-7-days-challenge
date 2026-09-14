@@ -29,3 +29,8 @@ age = 20
 height = 5.8
 is_student = True
 print(name,type(name),f"{type(height)}\n",height,is_student,age) """ #to leave a line f"{height}\n" and sep="\n\n";
+#strings and number
+""" name= "nischay"
+city= "ranchi"
+college= "bit sindri"
+print ( name , city , college ,sep="\n") """
