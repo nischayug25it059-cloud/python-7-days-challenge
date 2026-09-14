@@ -48,3 +48,7 @@ breadth=21
 area=length*breadth
 perimetre = length+breadth
 print (area,perimetre) """
+string= "45"
+number = 45
+c = 23.444
+print(type(string),type(c),type(number), sep="\n")
