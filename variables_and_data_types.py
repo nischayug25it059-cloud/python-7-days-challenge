@@ -34,3 +34,9 @@ print(name,type(name),f"{type(height)}\n",height,is_student,age) """ #to leave a
 city= "ranchi"
 college= "bit sindri"
 print ( name , city , college ,sep="\n") """
+""" a = 25
+b= 23
+multiplication = (a*b)
+division = (a/b)
+addition=(a+b)
+print (multiplication,division,addition, sep="\n") """
