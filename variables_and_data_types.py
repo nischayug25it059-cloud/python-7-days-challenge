@@ -40,3 +40,6 @@ multiplication = (a*b)
 division = (a/b)
 addition=(a+b)
 print (multiplication,division,addition, sep="\n") """
+""" a = " nischay "
+b= " nayak "
+print(a+b) """
