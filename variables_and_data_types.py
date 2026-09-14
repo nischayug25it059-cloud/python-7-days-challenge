@@ -43,3 +43,8 @@ print (multiplication,division,addition, sep="\n") """
 """ a = " nischay "
 b= " nayak "
 print(a+b) """
+""" length=12
+breadth=21
+area=length*breadth
+perimetre = length+breadth
+print (area,perimetre) """
