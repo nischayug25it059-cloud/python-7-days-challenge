@@ -65,15 +65,15 @@ print(fruits) """
 numbers.pop()
 x=numbers.pop()
 print(numbers,x) """
-numbers=[45,12,11,10,9]
+""" numbers=[45,12,11,10,9]
 numbers.sort()
 dnumbers=[45,12,11,10,9]
 dnumbers.sort(reverse=True)
-print (numbers,dnumbers)
-""" numbers=[10,29,292,293,322,12,3,311]
+print (numbers,dnumbers) """
+numbers=[10,29,292,293,322,12,3,311]
 print(min(numbers),max(numbers))
 numbers.sort()
 print(numbers)
 x=(sum(numbers)/len(numbers))
 print(x)
-print (len(numbers)) """
+print (len(numbers))
