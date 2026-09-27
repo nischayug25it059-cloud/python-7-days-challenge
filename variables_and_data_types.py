@@ -61,15 +61,15 @@ print(x,y,z) """
 fruits.insert(1,'orange')
 del fruits[2]
 print(fruits) """
-numbers=[10,20,30,40,50]
+""" numbers=[10,20,30,40,50]
 numbers.pop()
 x=numbers.pop()
-print(numbers,x)
-""" numbers=[45,12,11,10,9]
+print(numbers,x) """
+numbers=[45,12,11,10,9]
 numbers.sort()
 dnumbers=[45,12,11,10,9]
 dnumbers.sort(reverse=True)
-print (numbers,dnumbers) """
+print (numbers,dnumbers)
 """ numbers=[10,29,292,293,322,12,3,311]
 print(min(numbers),max(numbers))
 numbers.sort()
