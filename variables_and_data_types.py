@@ -57,14 +57,14 @@ x=(numbers[0])
 y=(numbers[-1])
 z=(numbers[2])
 print(x,y,z) """
-fruits=['apple','banana','mango']
+""" fruits=['apple','banana','mango']
 fruits.insert(1,'orange')
 del fruits[2]
-print(fruits)
-""" numbers=[10,20,30,40,50]
+print(fruits) """
+numbers=[10,20,30,40,50]
 numbers.pop()
 x=numbers.pop()
-print(numbers,x) """
+print(numbers,x)
 """ numbers=[45,12,11,10,9]
 numbers.sort()
 dnumbers=[45,12,11,10,9]
