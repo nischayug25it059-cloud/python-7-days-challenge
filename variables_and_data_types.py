@@ -52,15 +52,15 @@ print (area,perimetre) """
 number = 45
 c = 23.444
 print(type(string),type(c),type(number), sep="\n") """
-numbers=[10,20,30,40,50]
+""" numbers=[10,20,30,40,50]
 x=(numbers[0])
 y=(numbers[-1])
 z=(numbers[2])
-print(x,y,z)
-""" fruits=['apple','banana','mango']
+print(x,y,z) """
+fruits=['apple','banana','mango']
 fruits.insert(1,'orange')
 del fruits[2]
-print(fruits) """
+print(fruits)
 """ numbers=[10,20,30,40,50]
 numbers.pop()
 x=numbers.pop()
