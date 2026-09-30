@@ -88,3 +88,7 @@ for numbers in range(1,21):
 print (min(numbers))
 print (max(numbers))
 print (sum(numbers)) """
+""" numbers=[]
+for numbers in range(1,21):
+    numbers=numbers **2
+    print (numbers) """
