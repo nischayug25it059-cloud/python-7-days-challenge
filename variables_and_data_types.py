@@ -84,3 +84,7 @@ for fruit in fruits:
 """ numbers=[]
 for numbers in range(1,21):
     print (numbers) """
+""" numbers = [45, 12, 78, 3, 91, 24, 8]
+print (min(numbers))
+print (max(numbers))
+print (sum(numbers)) """
