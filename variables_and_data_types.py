@@ -92,3 +92,6 @@ print (sum(numbers)) """
 for numbers in range(1,21):
     numbers=numbers **2
     print (numbers) """
+""" numbers=()
+for numbers in range(5,16):
+    print (numbers) """
