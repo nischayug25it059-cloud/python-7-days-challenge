@@ -78,6 +78,9 @@ x=(sum(numbers)/len(numbers))
 print(x)
 print (len(numbers)) """
 #fruits = ["apple", "banana", "mango", "orange"]
-fruits = ["apple", "banana", "mango", "orange"]
+""" fruits = ["apple", "banana", "mango", "orange"]
 for fruit in fruits:
-    print(fruit)
+    print(fruit) """
+""" numbers=[]
+for numbers in range(1,21):
+    print (numbers) """
