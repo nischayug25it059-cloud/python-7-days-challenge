@@ -95,3 +95,18 @@ for numbers in range(1,21):
 """ numbers=()
 for numbers in range(5,16):
     print (numbers) """
+# assignments
+
+#q1
+""" print("hello world") """
+#q2
+""" object = str (input ())
+print (object) """
+#q3
+obj=int(input("enter the number = "))
+if(obj>0):
+    print("the number is positive")
+elif(obj==0):
+    print("the number is 0")    
+else:
+    print("the number is -ve")    
