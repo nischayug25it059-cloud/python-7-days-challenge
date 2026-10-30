@@ -127,3 +127,23 @@ p=1
 for i in range (a,0,-1):
     p=p*i
 print (p) """
+#q6
+""" a=int (input())
+p=1
+p=a*a
+print("the square of",a ,"is",p) """
+#q7
+""" nayak="holajor"
+p= nayak[::-1]
+print (p) """
+#q8
+""" nayak=str(input())
+p= nayak[::-1]
+if (p==nayak):
+    print("the string is A palindrome")
+else :
+    print("the string is not a palindrome") """
+#q9
+""" p=[1,2,45,6,4,7,2,7,32,12,44]
+p.sort()
+print (p) """
