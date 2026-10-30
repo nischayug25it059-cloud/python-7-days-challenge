@@ -103,10 +103,27 @@ for numbers in range(5,16):
 """ object = str (input ())
 print (object) """
 #q3
-obj=int(input("enter the number = "))
+""" obj=int(input("enter the number = "))
 if(obj>0):
     print("the number is positive")
 elif(obj==0):
     print("the number is 0")    
 else:
-    print("the number is -ve")    
+    print("the number is -ve")  """  
+#q4
+""" a=int(input("enter the first number") )
+b=int(input("enter the second number") )
+c=int(input("enter the third number") )
+if (a>b and a>c):
+    print ( a,"a is the largest number")
+elif (b>a and b>c):
+    print (b,"b is the largest number")
+else :
+    print (c, "c is greatest")         """
+#q5
+""" a=int(input())
+i=1
+p=1
+for i in range (a,0,-1):
+    p=p*i
+print (p) """
